@@ -54,3 +54,6 @@ body{
 .box input[type="submit"]:hover{
     background: #2ecc71;
 }
+#cbox{
+    color: #757575;
+}
